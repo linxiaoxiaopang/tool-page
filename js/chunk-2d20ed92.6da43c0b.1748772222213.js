@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20ed92"],{b0b0:function(e,n,a){"use strict";a.r(n),a.d(n,"dic",(function(){return l}));var l=[{label:"英文",value:"en"},{label:"德语",value:"de"},{label:"日语",value:"jp"}]}}]);
